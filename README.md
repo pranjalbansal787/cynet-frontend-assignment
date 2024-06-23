@@ -1,0 +1,1 @@
+# cynet-frontend-assignment
